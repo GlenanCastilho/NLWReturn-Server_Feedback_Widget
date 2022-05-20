@@ -10,6 +10,12 @@
 
 <h1>🔧 Dependencias</h1>
 
+<ul>
+  <li></li>
+  <li></li>
+  <li></li> 
+</ul>
+
 <br>
 
 <h1>📚 Requisitos</h1>
