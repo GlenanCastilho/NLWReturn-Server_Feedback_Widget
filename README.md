@@ -4,7 +4,7 @@
 
 <h1>📃 Sobre</h1>
  
-<h4 align="justify">Teste</h4>
+<h4 align="justify">Projeto desenvolvido na Trilha Impulse do NLW Return. Esse projeto é um widget que pode ser usado em aplicações web e mobile para receber feedback de usuários.</h4>
 
 <br>
 
