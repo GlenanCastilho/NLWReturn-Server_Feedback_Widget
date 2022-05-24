@@ -11,9 +11,13 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li> 
+  <li>Jest</li>
+  <li>Ts Node Dev</li> 
+  <li>Typescript</li>
+  <li>Prisma</li>
+  <li>Cors</li> 
+  <li>Express</li>
+  <li>Nodemailer</li> 
 </ul>
 
 <br>
