@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67304453/147499611-0facc17f-37d0-4d92-8531-93008967ce11.png" width="300" >
+  <img src="https://user-images.githubusercontent.com/67304453/170726643-f17beb77-c322-4b40-b96c-e1d26c129f91.svg" width="300" >
 </div>
+
+##
+
+<img src="" width="1200"/>
+
+<br>
+<br>
 
 <h1>📃 Sobre</h1>
  
